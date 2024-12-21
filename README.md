@@ -14,7 +14,7 @@ This repository contains a Next.js project. Follow the steps below to set up the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pradhumngautam/codeant-ai.git
+git clone https://github.com/Harshjoshiit/Codeant-ai.git
 cd codeant-ai
 ```
 
